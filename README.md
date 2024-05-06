@@ -7,7 +7,7 @@ This is a simple Ethereum smart contract written in Solidity that allows users t
 ## Requirements
 To interact with the smart contract, you'll need:
 * A development environment for Ethereum smart contracts
-* An Ethereum wallet or client (e.g., MetaMask) to deploy and interact with the contract.
+* An Ethereum wallet or client (e.g., MetaMask) to compile,deploy and interact with the smart contract.
 
 ## Authors
 David Joshua B. Bucol
