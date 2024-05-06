@@ -6,35 +6,12 @@ Overview
 
 ## Requirements
 To interact with the smart contract, you'll need:
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* A development environment for Ethereum smart contracts
+* An Ethereum wallet or client (e.g., MetaMask) to deploy and interact with the contract.
 
 ## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
+David Joshua B. Bucol
+davidjoshuabucol@gmail.com
 
 ## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
