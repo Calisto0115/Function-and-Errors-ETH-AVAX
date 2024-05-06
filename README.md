@@ -2,7 +2,7 @@
 
 Overview 
 
-##This is a simple Ethereum smart contract written in Solidity that allows users to withdraw, deposit, and check their balance. It demonstrates the use of  require(), revert(), and assert() statements for error handling and validation.
+This is a simple Ethereum smart contract written in Solidity that allows users to withdraw, deposit, and check their balance. It demonstrates the use of  require(), revert(), and assert() statements for error handling and validation.
 
 ## Requirements
 To interact with the smart contract, you'll need:
