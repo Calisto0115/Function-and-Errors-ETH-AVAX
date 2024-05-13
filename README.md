@@ -24,7 +24,7 @@ This function allows users to deposit funds into their account. It checks if the
 Users can withdraw funds from their account using this function. It verifies if the user has sufficient balance using `require()`. Upon successful validation, the specified amount is deducted from the user's balance. Similar to the `deposit` function, the `assert()` statement ensures the balance remains non-negative after the withdrawal. If it fails, the transaction is reverted with an appropriate error message.
 
 ## Authors
-David Joshua B. Bucol
+Marino, Chloe Andrei
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
